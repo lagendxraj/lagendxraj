@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lagendxraj
+- 👋 Hi, I’m @legendxraj
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...machine lerning and artificial intelligence
 - 💞️ I’m looking to collaborate on ... projects
